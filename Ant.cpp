@@ -1,9 +1,3 @@
-/**************************
-Kevin Woods - woodske@oregonstate.edu
-CS 162 - Fall 2016
-Assignment: Langton's ant simulation
-***************************/
-
 #include "Ant.h"
 
 Ant::Ant(int move, int** ary, int x, int y, int rmax, int cmax) {
